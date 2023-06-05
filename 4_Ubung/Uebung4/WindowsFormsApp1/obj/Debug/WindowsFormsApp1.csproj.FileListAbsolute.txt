@@ -1,0 +1,10 @@
+C:\Users\Flori\Documents\Studium\ZHAW_B_DotNet_Technologien_1\Übungen\4_Ubung\Uebung4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Flori\Documents\Studium\ZHAW_B_DotNet_Technologien_1\Übungen\4_Ubung\Uebung4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Flori\Documents\Studium\ZHAW_B_DotNet_Technologien_1\Übungen\4_Ubung\Uebung4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Flori\Documents\Studium\ZHAW_B_DotNet_Technologien_1\Übungen\4_Ubung\Uebung4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Flori\Documents\Studium\ZHAW_B_DotNet_Technologien_1\Übungen\4_Ubung\Uebung4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Flori\Documents\Studium\ZHAW_B_DotNet_Technologien_1\Übungen\4_Ubung\Uebung4\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Flori\Documents\Studium\ZHAW_B_DotNet_Technologien_1\Übungen\4_Ubung\Uebung4\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Flori\Documents\Studium\ZHAW_B_DotNet_Technologien_1\Übungen\4_Ubung\Uebung4\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Flori\Documents\Studium\ZHAW_B_DotNet_Technologien_1\Übungen\4_Ubung\Uebung4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Flori\Documents\Studium\ZHAW_B_DotNet_Technologien_1\Übungen\4_Ubung\Uebung4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

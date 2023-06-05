@@ -1,0 +1,23 @@
+BEGIN:VCARD
+VERSION:2.1
+N:Rege;Karl;;Herr
+FN:Karl Rege
+ORG:Zürcher Hochschule Winterthur;T
+TITLE:Prof. Dr.
+TEL;WORK;VOICE:052 267 75 88
+TEL;HOME;VOICE:056 631 82 51
+TEL;CELL;VOICE:079 719 36 94
+TEL;PAGER;VOICE:92312 @karlrege
+ADR;WORK;ENCODING=QUOTED-PRINTABLE:;TG 103;Z=FCrcher Hochschule Winterthur=0D=0Ac/o Dr. Karl Rege=0D=0ATechniku=
+mstrasse 9;Winterthur;;CH-8401;Switzerland
+LABEL;WORK;ENCODING=QUOTED-PRINTABLE:TG 103=0D=0AZ=FCrcher Hochschule Winterthur=0D=0Ac/o Dr. Karl Rege=0D=0ATech=
+nikumstrasse 9=0D=0AWinterthur CH-8401=0D=0ASwitzerland
+ADR;HOME:;;Chörenmattstr.30;Berikon;;8965;Switzerland
+LABEL;HOME;ENCODING=QUOTED-PRINTABLE:Ch=F6renmattstr.30=0D=0ABerikon 8965=0D=0ASwitzerland
+X-WAB-GENDER:2
+URL;WORK:http://www.zhwin.ch/~rea
+ROLE:Dozent
+EMAIL;PREF;INTERNET:karl.rege@zhwin.ch
+REV:20051127T090100Z
+UID:REA
+END:VCARD

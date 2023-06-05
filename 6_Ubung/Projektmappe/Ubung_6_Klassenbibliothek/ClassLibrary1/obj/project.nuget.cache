@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Tua5Zjtg+Ovc3ONU28pDkibOVFv/Ae/7WCShCXKz2EAguHbJ3IuVnsctuVzcQ0F1k6+NA5iX04Y5H3nP3CJfdA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Flori\\Documents\\Studium\\ZHAW_B_DotNet_Technologien_1\\Übungen\\6_Ubung\\Projektmappe\\Ubung_6_Klassenbibliothek\\ClassLibrary1\\ClassLibrary1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Flori\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Flori\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

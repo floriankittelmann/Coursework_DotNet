@@ -1,0 +1,8 @@
+C:\Users\Flori\Documents\Studium\ZHAW_B_DotNet_Technologien_1\Übungen\11_Ubung\Projektmappe\WebApplication1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\Flori\Documents\Studium\ZHAW_B_DotNet_Technologien_1\Übungen\11_Ubung\Projektmappe\WebApplication1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Flori\Documents\Studium\ZHAW_B_DotNet_Technologien_1\Übungen\11_Ubung\Projektmappe\WebApplication1\ClassLibrary1\obj\Debug\ClassLibrary1.csprojAssemblyReference.cache
+C:\Users\Flori\Documents\Studium\ZHAW_B_DotNet_Technologien_1\Übungen\11_Ubung\Projektmappe\WebApplication1\ClassLibrary1\obj\Debug\ClassLibrary1.Properties.Resources.resources
+C:\Users\Flori\Documents\Studium\ZHAW_B_DotNet_Technologien_1\Übungen\11_Ubung\Projektmappe\WebApplication1\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.GenerateResource.cache
+C:\Users\Flori\Documents\Studium\ZHAW_B_DotNet_Technologien_1\Übungen\11_Ubung\Projektmappe\WebApplication1\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\Flori\Documents\Studium\ZHAW_B_DotNet_Technologien_1\Übungen\11_Ubung\Projektmappe\WebApplication1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\Flori\Documents\Studium\ZHAW_B_DotNet_Technologien_1\Übungen\11_Ubung\Projektmappe\WebApplication1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

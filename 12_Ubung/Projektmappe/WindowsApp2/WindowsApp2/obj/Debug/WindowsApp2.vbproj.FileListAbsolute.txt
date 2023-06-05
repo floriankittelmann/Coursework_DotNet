@@ -1,0 +1,12 @@
+C:\Users\Flori\Documents\Studium\ZHAW_B_DotNet_Technologien_1\Übungen\12_Ubung\Projektmappe\WindowsApp2\WindowsApp2\bin\Debug\WindowsApp2.exe.config
+C:\Users\Flori\Documents\Studium\ZHAW_B_DotNet_Technologien_1\Übungen\12_Ubung\Projektmappe\WindowsApp2\WindowsApp2\bin\Debug\WindowsApp2.exe
+C:\Users\Flori\Documents\Studium\ZHAW_B_DotNet_Technologien_1\Übungen\12_Ubung\Projektmappe\WindowsApp2\WindowsApp2\bin\Debug\WindowsApp2.pdb
+C:\Users\Flori\Documents\Studium\ZHAW_B_DotNet_Technologien_1\Übungen\12_Ubung\Projektmappe\WindowsApp2\WindowsApp2\bin\Debug\WindowsApp2.xml
+C:\Users\Flori\Documents\Studium\ZHAW_B_DotNet_Technologien_1\Übungen\12_Ubung\Projektmappe\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.vbprojAssemblyReference.cache
+C:\Users\Flori\Documents\Studium\ZHAW_B_DotNet_Technologien_1\Übungen\12_Ubung\Projektmappe\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.Form1.resources
+C:\Users\Flori\Documents\Studium\ZHAW_B_DotNet_Technologien_1\Übungen\12_Ubung\Projektmappe\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.Resources.resources
+C:\Users\Flori\Documents\Studium\ZHAW_B_DotNet_Technologien_1\Übungen\12_Ubung\Projektmappe\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.vbproj.GenerateResource.cache
+C:\Users\Flori\Documents\Studium\ZHAW_B_DotNet_Technologien_1\Übungen\12_Ubung\Projektmappe\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.vbproj.CoreCompileInputs.cache
+C:\Users\Flori\Documents\Studium\ZHAW_B_DotNet_Technologien_1\Übungen\12_Ubung\Projektmappe\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.exe
+C:\Users\Flori\Documents\Studium\ZHAW_B_DotNet_Technologien_1\Übungen\12_Ubung\Projektmappe\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.xml
+C:\Users\Flori\Documents\Studium\ZHAW_B_DotNet_Technologien_1\Übungen\12_Ubung\Projektmappe\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.pdb
